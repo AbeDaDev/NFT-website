@@ -9,3 +9,4 @@ This was one of my first web projects, where I practiced the fundamentals of sem
 🛠️ Technologies Used
 	•	HTML
 	•	CSS
+	•	Netlify (for deployment)
